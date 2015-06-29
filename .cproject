@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="lc3.cdt.configuration.id">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="lc3.cdt.configuration.id" moduleId="org.eclipse.cdt.core.settings" name="lc3.cdt.configuration.name">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GmakeErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.VCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.CWDLocator" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration buildProperties="" description="" id="lc3.cdt.configuration.id" name="lc3.cdt.configuration.name" parent="org.eclipse.cdt.build.core.prefbase.cfg">
+					<folderInfo id="lc3.cdt.configuration.id." name="/" resourcePath="">
+						<toolChain id="org.eclipse.cdt.build.core.prefbase.toolchain.376398750" name="No ToolChain" resourceTypeBasedDiscovery="false" superClass="org.eclipse.cdt.build.core.prefbase.toolchain">
+							<targetPlatform id="org.eclipse.cdt.build.core.prefbase.toolchain.376398750.54655250" name=""/>
+							<builder id="org.eclipse.cdt.build.core.settings.default.builder.1676492761" keepEnvironmentInBuildfile="false" managedBuildOn="false" name="Gnu Make Builder" superClass="org.eclipse.cdt.build.core.settings.default.builder"/>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.libs.959104951" name="holder for library settings" superClass="org.eclipse.cdt.build.core.settings.holder.libs"/>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.1358381221" name="Assembly" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.1582221418" languageId="org.eclipse.cdt.core.assembly" languageName="Assembly" sourceContentType="org.eclipse.cdt.core.asmSource" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.993047501" name="GNU C++" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.63570443" languageId="org.eclipse.cdt.core.g++" languageName="GNU C++" sourceContentType="org.eclipse.cdt.core.cxxSource,org.eclipse.cdt.core.cxxHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+							<tool id="org.eclipse.cdt.build.core.settings.holder.1146933776" name="GNU C" superClass="org.eclipse.cdt.build.core.settings.holder">
+								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.382797991" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
+									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.43.0-windows-64bit\LC3\configuration\org.eclipse.osgi\38\0\.cp\API\uRTS3\RTSAPI&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.43.0-windows-64bit\LC3\configuration\org.eclipse.osgi\38\0\.cp\API\uRTS3\LCAPI&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.43.0-windows-64bit\LC3\configuration\org.eclipse.osgi\38\0\.cp\API\uRTS3&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.43.0-windows-64bit\LC3\configuration\org.eclipse.osgi\38\0\.cp\API\RTS2&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.43.0-windows-64bit\LC3\configuration\org.eclipse.osgi\38\0\.cp\API\RTS2\CInc&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.43.0-windows-64bit\LC3\configuration\org.eclipse.osgi\38\0\.cp\API\RTS2\RTSAPI&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.43.0-windows-64bit\LC3\configuration\org.eclipse.osgi\38\0\.cp\API\RTS2\LCAPI&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.43.0-windows-64bit\LC3\plugins\com.logicals.ptk.win32_1.43.0\api\h&quot;"/>
+								</option>
+								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.1812395430" languageId="org.eclipse.cdt.core.gcc" languageName="GNU C" sourceContentType="org.eclipse.cdt.core.cSource,org.eclipse.cdt.core.cHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
+							</tool>
+						</toolChain>
+					</folderInfo>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="Demo.null.800670489" name="Demo"/>
+	</storageModule>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		<scannerConfigBuildInfo instanceId="lc3.cdt.configuration.id">
+			<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+		</scannerConfigBuildInfo>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+</cproject>
