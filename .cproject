@@ -28,14 +28,14 @@
 							</tool>
 							<tool id="org.eclipse.cdt.build.core.settings.holder.1146933776" name="GNU C" superClass="org.eclipse.cdt.build.core.settings.holder">
 								<option id="org.eclipse.cdt.build.core.settings.holder.incpaths.382797991" name="Include Paths" superClass="org.eclipse.cdt.build.core.settings.holder.incpaths" valueType="includePath">
-									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.43.0-windows-64bit\LC3\configuration\org.eclipse.osgi\38\0\.cp\API\uRTS3\RTSAPI&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.43.0-windows-64bit\LC3\configuration\org.eclipse.osgi\38\0\.cp\API\uRTS3\LCAPI&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.43.0-windows-64bit\LC3\configuration\org.eclipse.osgi\38\0\.cp\API\uRTS3&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.43.0-windows-64bit\LC3\configuration\org.eclipse.osgi\38\0\.cp\API\RTS2&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.43.0-windows-64bit\LC3\configuration\org.eclipse.osgi\38\0\.cp\API\RTS2\CInc&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.43.0-windows-64bit\LC3\configuration\org.eclipse.osgi\38\0\.cp\API\RTS2\RTSAPI&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.43.0-windows-64bit\LC3\configuration\org.eclipse.osgi\38\0\.cp\API\RTS2\LCAPI&quot;"/>
-									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.43.0-windows-64bit\LC3\plugins\com.logicals.ptk.win32_1.43.0\api\h&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.44.0-windows-64bit\LC3\configuration\org.eclipse.osgi\39\0\.cp\API\uRTS3\RTSAPI&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.44.0-windows-64bit\LC3\configuration\org.eclipse.osgi\39\0\.cp\API\uRTS3\LCAPI&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.44.0-windows-64bit\LC3\configuration\org.eclipse.osgi\39\0\.cp\API\uRTS3&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.44.0-windows-64bit\LC3\configuration\org.eclipse.osgi\39\0\.cp\API\RTS2&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.44.0-windows-64bit\LC3\configuration\org.eclipse.osgi\39\0\.cp\API\RTS2\CInc&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.44.0-windows-64bit\LC3\configuration\org.eclipse.osgi\39\0\.cp\API\RTS2\RTSAPI&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.44.0-windows-64bit\LC3\configuration\org.eclipse.osgi\39\0\.cp\API\RTS2\LCAPI&quot;"/>
+									<listOptionValue builtIn="false" value="&quot;C:\Users\wze\Desktop\LC3-0.44.0-windows-64bit\LC3\plugins\com.logicals.ptk.win32_1.44.0\api\h&quot;"/>
 								</option>
 								<inputType id="org.eclipse.cdt.build.core.settings.holder.inType.1812395430" languageId="org.eclipse.cdt.core.gcc" languageName="GNU C" sourceContentType="org.eclipse.cdt.core.cSource,org.eclipse.cdt.core.cHeader" superClass="org.eclipse.cdt.build.core.settings.holder.inType"/>
 							</tool>
