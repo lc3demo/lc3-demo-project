@@ -4,14 +4,14 @@ PROGRAM Counter
 	VAR
     	/* If 'up' = 'TRUE', counter counts up. */
 		up : BOOL;
-		/* 'count' is incremented/decremented by '5' for each cycle. */
+		/* 'count' is incremented/decremented by '1' for each cycle. */
 		count : INT;
 	END_VAR
 
 	IF up THEN
-		count := count + 5;
+		count := count + 1;
 	ELSE
-		count := count - 5;
+		count := count - 1;
 	END_IF;
 
 END_PROGRAM
